@@ -1,0 +1,32 @@
+aid: minor-planet-center
+name: Minor Planet Center
+description: "Asterank.com Information"
+url: http://www.asterank.com/mpc
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: Minor Planet Center
+    description: "Asterank.com Information"
+    humanURL: http://www.asterank.com/mpc
+    baseURL: http://www.asterank.com/mpc
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: http://www.asterank.com/mpc
+common:
+  - type: Website
+    url: http://www.asterank.com/mpc
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
