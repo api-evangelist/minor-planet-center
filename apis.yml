@@ -1,4 +1,16 @@
 aid: minor-planet-center
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/minor-planet-center.png
 name: Minor Planet Center
 description: "Asterank.com Information"
 url: http://www.asterank.com/mpc
