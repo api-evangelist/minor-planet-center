@@ -33,13 +33,14 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Science
+  - Astronomy
+  - Space
 apis:
   - name: Minor Planet Center
     description: "Asterank.com Information"
     humanURL: http://www.asterank.com/mpc
-    baseURL: http://www.asterank.com/mpc
     tags:
       - Science And Math
     properties:
@@ -55,3 +56,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
