@@ -41,7 +41,8 @@ apis:
   - name: Minor Planet Center
     description: "Asterank.com Information"
     humanURL: http://www.asterank.com/mpc
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
